@@ -1,6 +1,6 @@
 # Simple-Fitness-Tracker
 
-A simple app used to track your workuts
+A simple app used to track your workouts
 
 # Link
 
